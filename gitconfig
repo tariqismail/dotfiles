@@ -49,3 +49,5 @@
 [user]
 	email = tariqismail@gmail.com
 	name = Tariq Ismail
+[hub]
+	protocol = ssh
